@@ -1,0 +1,11 @@
+{
+  "generator-openapi-repo": {
+    "importExistingSpec": true,
+    "importedSpec": "./swagger.yaml",
+    "name": "Demo api",
+    "repo": "jchiavaro/swagger-demo",
+    "splitSpec": false,
+    "samples": true,
+    "installSwaggerUI": true
+  }
+}
